@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ConstrutoraRepository
+comment1.params=database
+comment1.target=ConstrutoraRepository(Database)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=construtora
+comment3.target=Construtora\ create(Construtora)
+comment4.params=construtora
+comment4.target=void\ update(Construtora)
+comment5.params=construtora
+comment5.target=void\ delete(Construtora)
+comment6.params=id
+comment6.target=Construtora\ loadFromId(int)
+comment7.params=
+comment7.target=java.util.List\ loadAll()
+numComments=8
